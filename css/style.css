@@ -12,10 +12,15 @@ body {
     -o-background-size: cover;
 }
 
+.menu-list,
 p{
     font-size: 1.25em;
     line-height: 1.6;
     color: #000;
+}
+.image{
+    width:400;
+    height:300;
 }
 
 hr {
